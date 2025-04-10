@@ -6,6 +6,8 @@
 
 •ls
 
+chmod +x wolfv8.py
+
 •python wolfv8.py ou python3 wolfv8.py
 
 • se você não tiver o python e o python 3 instalado instale
