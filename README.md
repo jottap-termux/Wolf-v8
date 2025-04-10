@@ -16,7 +16,7 @@ chmod +x wolfv8.py
 
 •instale os requerimentos do python antes de executar o programa 
 
-•pip install requirements
+•pip install requests
 
 • se continuar dando erro no programa baixe isso
 
